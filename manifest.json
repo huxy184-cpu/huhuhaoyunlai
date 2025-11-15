@@ -1,0 +1,10 @@
+{
+  "name": "eve",  
+  "short_name": "eve",  
+  "description": "我的全屏网页应用", 
+  "start_url": "/",  
+  "display": "standalone",  
+  "background_color": "#ffffff",  
+  "theme_color": "#000000",  
+  "icons": []  
+}
